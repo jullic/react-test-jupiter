@@ -1,0 +1,17 @@
+.nav {
+	&__list {
+		list-style: none;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	&__list-item {
+		cursor: pointer;
+		transition: color 0.2s ease-in-out;
+
+		&:hover {
+			color: #D8D8D8;
+		}
+	}
+}

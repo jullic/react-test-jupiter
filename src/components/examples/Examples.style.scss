@@ -1,0 +1,40 @@
+.examples {
+	&__wrapper {
+		display: grid;
+		gap: 30px;
+		grid-template-columns: repeat(3, 1fr);
+		grid-auto-rows: 416px;
+	}
+
+	&__item {}
+
+	&__btn {
+		display: block;
+		margin: 0 auto;
+		margin-top: 80px;
+	}
+}
+
+@media (min-width: 1700px) {
+	.examples {
+		&__wrapper {
+			grid-template-columns: repeat(4, 1fr);
+		}
+	}
+}
+
+@media (max-width: 1040px) {
+	.examples {
+		&__wrapper {
+			grid-template-columns: repeat(2, 1fr);
+		}
+	}
+}
+
+@media (max-width: 768px) {
+	.examples {
+		&__wrapper {
+			grid-template-columns: 1fr;
+		}
+	}
+}

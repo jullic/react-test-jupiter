@@ -1,0 +1,64 @@
+.example {
+	position: relative;
+	border-radius: 6px;
+	overflow: hidden;
+	cursor: pointer;
+
+	&__img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+
+	&__overlay {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		background: rgba(92, 32, 0, 0.32);
+		mix-blend-mode: normal;
+	}
+
+	&__info {
+		position: absolute;
+		left: 48px;
+		bottom: 58px;
+	}
+
+	&__tag {
+		display: inline-block;
+		padding: 3px 16px;
+		background: #FFFFFF;
+		border-radius: 19px;
+		font-weight: 400;
+		font-size: 16px;
+		line-height: 32px;
+		color: #391400;
+	}
+
+	&__name {
+		margin-top: 13px;
+		font-weight: 400;
+		font-size: 40px;
+		line-height: 48px;
+		color: #FFFFFF;
+	}
+
+	&.active {
+		border: 3.5px solid #4FE24A;
+		border-radius: 6px;
+
+		.example__overlay {
+			border: 3.5px solid rgba(79, 226, 74, 0.32);
+		}
+	}
+}
+
+@media (max-width: 768px) {
+	.example {
+		&__info {
+			left: 28px;
+		}
+	}
+}

@@ -1,8 +1,14 @@
+import Header from '../header/Header';
+import Portfolio from '../portfolio/Portfolio';
+
 function App() {
 	return (
-		<div className="App">
-
-		</div>
+		<>
+			<Header />
+			<main className='main'>
+				<Portfolio />
+			</main>
+		</>
 	);
 }
 
