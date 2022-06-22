@@ -8,7 +8,7 @@ const Portfolio: FC<IPortfolioProps> = () => {
 	return (
 		<div className="portfolio">
 			<div className="container">
-				<Filter typeOfDevice='desktop' />
+				<Filter />
 				<Examples className='portfolio__examples' />
 			</div>
 		</div>
