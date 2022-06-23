@@ -3,6 +3,7 @@
 	border-radius: 6px;
 	overflow: hidden;
 	cursor: pointer;
+	transition: all 0.1s ease-in-out;
 
 	&__img {
 		width: 100%;
@@ -22,8 +23,9 @@
 
 	&__info {
 		position: absolute;
-		left: 48px;
-		bottom: 58px;
+		left: 0;
+		bottom: 0;
+		padding: 0 20px 58px 48px;
 	}
 
 	&__tag {
@@ -35,30 +37,37 @@
 		font-size: 16px;
 		line-height: 32px;
 		color: #391400;
+		transition: all 0.2s ease-in-out;
+
+		&:hover {
+			transform: scale(1.04);
+		}
 	}
 
 	&__name {
 		margin-top: 13px;
-		font-weight: 400;
+		font-weight: 900;
 		font-size: 40px;
 		line-height: 48px;
 		color: #FFFFFF;
 	}
 
 	&.active {
-		border: 3.5px solid #4FE24A;
+		box-sizing: initial;
+		border: 7px solid #4FE24A;
 		border-radius: 6px;
 
-		.example__overlay {
-			border: 3.5px solid rgba(79, 226, 74, 0.32);
-		}
+	}
+
+	&:hover {
+		transform: scale(1.005);
 	}
 }
 
 @media (max-width: 768px) {
 	.example {
 		&__info {
-			left: 28px;
+			padding: 0 28px 58px 28px;
 		}
 	}
 }

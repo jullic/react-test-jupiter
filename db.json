@@ -1,247 +1,247 @@
 {
-	"examples": [
-		{
-			"id": 1,
-			"photo": "./img/img1.jpg",
-			"tag": {
-				"tagsType": "Design",
-				"filterValueType": "design"
-			},
-			"name": "SOFA"
-		},
-		{
-			"id": 2,
-			"photo": "./img/img2.jpg",
-			"tag": {
-				"tagsType": "Branding",
-				"filterValueType": "branding"
-			},
-			"name": "KeyBoard"
-		},
-		{
-			"id": 3,
-			"photo": "./img/img3.jpg",
-			"tag": {
-				"tagsType": "Illustration",
-				"filterValueType": "illustration"
-			},
-			"name": "Work Media"
-		},
-		{
-			"id": 4,
-			"photo": "./img/img4.jpg",
-			"tag": {
-				"tagsType": "Motion",
-				"filterValueType": "motion"
-			},
-			"name": "DDDone"
-		},
-		{
-			"id": 5,
-			"photo": "./img/img5.jpg",
-			"tag": {
-				"tagsType": "Design",
-				"filterValueType": "design"
-			},
-			"name": "Abstract"
-		},
-		{
-			"id": 6,
-			"photo": "./img/img6.jpg",
-			"tag": {
-				"tagsType": "Branding",
-				"filterValueType": "branding"
-			},
-			"name": "HandP"
-		},
-		{
-			"id": 7,
-			"photo": "./img/img7.jpg",
-			"tag": {
-				"tagsType": "Motion",
-				"filterValueType": "motion"
-			},
-			"name": "Architect"
-		},
-		{
-			"id": 8,
-			"photo": "./img/img8.jpg",
-			"tag": {
-				"tagsType": "Design",
-				"filterValueType": "design"
-			},
-			"name": "CalC"
-		},
-		{
-			"id": 9,
-			"photo": "./img/img9.jpg",
-			"tag": {
-				"tagsType": "Branding",
-				"filterValueType": "branding"
-			},
-			"name": "Sport"
-		},
-		{
-			"id": 10,
-			"photo": "./img/img1.jpg",
-			"tag": {
-				"tagsType": "Design",
-				"filterValueType": "design"
-			},
-			"name": "SOFA2"
-		},
-		{
-			"id": 11,
-			"photo": "./img/img2.jpg",
-			"tag": {
-				"tagsType": "Branding",
-				"filterValueType": "branding"
-			},
-			"name": "KeyBoard2"
-		},
-		{
-			"id": 12,
-			"photo": "./img/img3.jpg",
-			"tag": {
-				"tagsType": "Illustration",
-				"filterValueType": "illustration"
-			},
-			"name": "Work Media2"
-		},
-		{
-			"id": 13,
-			"photo": "./img/img4.jpg",
-			"tag": {
-				"tagsType": "Motion",
-				"filterValueType": "motion"
-			},
-			"name": "DDDone2"
-		},
-		{
-			"id": 14,
-			"photo": "./img/img5.jpg",
-			"tag": {
-				"tagsType": "Design",
-				"filterValueType": "design"
-			},
-			"name": "Abstract2"
-		},
-		{
-			"id": 15,
-			"photo": "./img/img6.jpg",
-			"tag": {
-				"tagsType": "Branding",
-				"filterValueType": "branding"
-			},
-			"name": "HandP2"
-		},
-		{
-			"id": 16,
-			"photo": "./img/img7.jpg",
-			"tag": {
-				"tagsType": "Motion",
-				"filterValueType": "motion"
-			},
-			"name": "Architect2"
-		},
-		{
-			"id": 17,
-			"photo": "./img/img8.jpg",
-			"tag": {
-				"tagsType": "Design",
-				"filterValueType": "design"
-			},
-			"name": "CalC2"
-		},
-		{
-			"id": 18,
-			"photo": "./img/img9.jpg",
-			"tag": {
-				"tagsType": "Branding",
-				"filterValueType": "branding"
-			},
-			"name": "Sport2"
-		},
-		{
-			"id": 19,
-			"photo": "./img/img1.jpg",
-			"tag": {
-				"tagsType": "Design",
-				"filterValueType": "design"
-			},
-			"name": "SOFA3"
-		},
-		{
-			"id": 20,
-			"photo": "./img/img2.jpg",
-			"tag": {
-				"tagsType": "Branding",
-				"filterValueType": "branding"
-			},
-			"name": "KeyBoard3"
-		},
-		{
-			"id": 21,
-			"photo": "./img/img3.jpg",
-			"tag": {
-				"tagsType": "Illustration",
-				"filterValueType": "illustration"
-			},
-			"name": "Work Media3"
-		},
-		{
-			"id": 22,
-			"photo": "./img/img4.jpg",
-			"tag": {
-				"tagsType": "Motion",
-				"filterValueType": "motion"
-			},
-			"name": "DDDone3"
-		},
-		{
-			"id": 23,
-			"photo": "./img/img5.jpg",
-			"tag": {
-				"tagsType": "Design",
-				"filterValueType": "design"
-			},
-			"name": "Abstract3"
-		},
-		{
-			"id": 24,
-			"photo": "./img/img6.jpg",
-			"tag": {
-				"tagsType": "Branding",
-				"filterValueType": "branding"
-			},
-			"name": "HandP3"
-		},
-		{
-			"id": 25,
-			"photo": "./img/img7.jpg",
-			"tag": {
-				"tagsType": "Motion",
-				"filterValueType": "motion"
-			},
-			"name": "Architect3"
-		},
-		{
-			"id": 26,
-			"photo": "./img/img8.jpg",
-			"tag": {
-				"tagsType": "Design",
-				"filterValueType": "design"
-			},
-			"name": "CalC3"
-		},
-		{
-			"id": 27,
-			"photo": "./img/img9.jpg",
-			"tag": {
-				"tagsType": "Branding",
-				"filterValueType": "branding"
-			},
-			"name": "Sport3"
-		}
-	]
+  "examples": [
+    {
+      "id": 1,
+      "photo": "./img/img1.jpg",
+      "tag": {
+        "tagsType": "Design",
+        "filterValueType": "design"
+      },
+      "name": "SOFA"
+    },
+    {
+      "id": 2,
+      "photo": "./img/img2.jpg",
+      "tag": {
+        "tagsType": "Branding",
+        "filterValueType": "branding"
+      },
+      "name": "KeyBoard"
+    },
+    {
+      "id": 3,
+      "photo": "./img/img3.jpg",
+      "tag": {
+        "tagsType": "Illustration",
+        "filterValueType": "illustration"
+      },
+      "name": "Work Media"
+    },
+    {
+      "id": 4,
+      "photo": "./img/img4.jpg",
+      "tag": {
+        "tagsType": "Motion",
+        "filterValueType": "motion"
+      },
+      "name": "DDDone"
+    },
+    {
+      "id": 5,
+      "photo": "./img/img5.jpg",
+      "tag": {
+        "tagsType": "Design",
+        "filterValueType": "design"
+      },
+      "name": "Abstract"
+    },
+    {
+      "id": 6,
+      "photo": "./img/img6.jpg",
+      "tag": {
+        "tagsType": "Branding",
+        "filterValueType": "branding"
+      },
+      "name": "HandP"
+    },
+    {
+      "id": 7,
+      "photo": "./img/img7.jpg",
+      "tag": {
+        "tagsType": "Motion",
+        "filterValueType": "motion"
+      },
+      "name": "Architect"
+    },
+    {
+      "id": 8,
+      "photo": "./img/img8.jpg",
+      "tag": {
+        "tagsType": "Design",
+        "filterValueType": "design"
+      },
+      "name": "CalC"
+    },
+    {
+      "id": 9,
+      "photo": "./img/img9.jpg",
+      "tag": {
+        "tagsType": "Branding",
+        "filterValueType": "branding"
+      },
+      "name": "Sport"
+    },
+    {
+      "id": 10,
+      "photo": "./img/img1.jpg",
+      "tag": {
+        "tagsType": "Design",
+        "filterValueType": "design"
+      },
+      "name": "SOFA2"
+    },
+    {
+      "id": 11,
+      "photo": "./img/img2.jpg",
+      "tag": {
+        "tagsType": "Branding",
+        "filterValueType": "branding"
+      },
+      "name": "KeyBoard2"
+    },
+    {
+      "id": 12,
+      "photo": "./img/img3.jpg",
+      "tag": {
+        "tagsType": "Illustration",
+        "filterValueType": "illustration"
+      },
+      "name": "Work Media2"
+    },
+    {
+      "id": 13,
+      "photo": "./img/img4.jpg",
+      "tag": {
+        "tagsType": "Motion",
+        "filterValueType": "motion"
+      },
+      "name": "DDDone2"
+    },
+    {
+      "id": 14,
+      "photo": "./img/img5.jpg",
+      "tag": {
+        "tagsType": "Design",
+        "filterValueType": "design"
+      },
+      "name": "Abstract2"
+    },
+    {
+      "id": 15,
+      "photo": "./img/img6.jpg",
+      "tag": {
+        "tagsType": "Branding",
+        "filterValueType": "branding"
+      },
+      "name": "HandP2"
+    },
+    {
+      "id": 16,
+      "photo": "./img/img7.jpg",
+      "tag": {
+        "tagsType": "Motion",
+        "filterValueType": "motion"
+      },
+      "name": "Architect2"
+    },
+    {
+      "id": 17,
+      "photo": "./img/img8.jpg",
+      "tag": {
+        "tagsType": "Design",
+        "filterValueType": "design"
+      },
+      "name": "CalC2"
+    },
+    {
+      "id": 18,
+      "photo": "./img/img9.jpg",
+      "tag": {
+        "tagsType": "Branding",
+        "filterValueType": "branding"
+      },
+      "name": "Sport2"
+    },
+    {
+      "id": 19,
+      "photo": "./img/img1.jpg",
+      "tag": {
+        "tagsType": "Design",
+        "filterValueType": "design"
+      },
+      "name": "SOFA3"
+    },
+    {
+      "id": 20,
+      "photo": "./img/img2.jpg",
+      "tag": {
+        "tagsType": "Branding",
+        "filterValueType": "branding"
+      },
+      "name": "KeyBoard3"
+    },
+    {
+      "id": 21,
+      "photo": "./img/img3.jpg",
+      "tag": {
+        "tagsType": "Illustration",
+        "filterValueType": "illustration"
+      },
+      "name": "Work Media3"
+    },
+    {
+      "id": 22,
+      "photo": "./img/img4.jpg",
+      "tag": {
+        "tagsType": "Motion",
+        "filterValueType": "motion"
+      },
+      "name": "DDDone3"
+    },
+    {
+      "id": 23,
+      "photo": "./img/img5.jpg",
+      "tag": {
+        "tagsType": "Design",
+        "filterValueType": "design"
+      },
+      "name": "Abstract3"
+    },
+    {
+      "id": 24,
+      "photo": "./img/img6.jpg",
+      "tag": {
+        "tagsType": "Branding",
+        "filterValueType": "branding"
+      },
+      "name": "HandP3"
+    },
+    {
+      "id": 25,
+      "photo": "./img/img7.jpg",
+      "tag": {
+        "tagsType": "Motion",
+        "filterValueType": "motion"
+      },
+      "name": "Architect3"
+    },
+    {
+      "id": 26,
+      "photo": "./img/img8.jpg",
+      "tag": {
+        "tagsType": "Design",
+        "filterValueType": "design"
+      },
+      "name": "CalC3"
+    },
+    {
+      "id": 27,
+      "photo": "./img/img9.jpg",
+      "tag": {
+        "tagsType": "Branding",
+        "filterValueType": "branding"
+      },
+      "name": "Sport3"
+    }
+  ]
 }

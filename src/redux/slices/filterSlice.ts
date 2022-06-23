@@ -1,6 +1,5 @@
 import { createSlice, PayloadAction } from '@reduxjs/toolkit';
-import { IFilter } from '../../interfaces/filter.interface';
-import { FilterValueType } from '../../types/filter.type';
+import { FilterValueType, IFilter } from '../../interfaces/filter.interface';
 
 interface IFilterSliceInitialState {
 	filters: IFilter[];
@@ -24,4 +23,4 @@ const filterSlice = createSlice({
 const { actions, reducer } = filterSlice;
 
 export const filterReducer = reducer;
-export const { changeFilter } = actions
+export const { changeFilter } = actions;

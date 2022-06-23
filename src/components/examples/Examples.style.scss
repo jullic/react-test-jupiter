@@ -6,12 +6,35 @@
 		grid-auto-rows: 416px;
 	}
 
-	&__item {}
-
 	&__btn {
 		display: block;
 		margin: 0 auto;
 		margin-top: 80px;
+	}
+
+	&__loading {
+		margin-top: 24px;
+		font-size: 18px;
+		font-weight: bold;
+		color: #391400
+	}
+
+	&__error {
+		font-size: 24px;
+		font-weight: bold;
+		margin: 0 auto;
+		text-align: center;
+		margin-top: 100px;
+		color: #391400;
+	}
+
+	&__warn {
+		font-size: 24px;
+		font-weight: bold;
+		margin: 0 auto;
+		text-align: center;
+		margin-top: 100px;
+		color: #391400;
 	}
 }
 
@@ -23,7 +46,7 @@
 	}
 }
 
-@media (max-width: 1040px) {
+@media (max-width: 1200px) {
 	.examples {
 		&__wrapper {
 			grid-template-columns: repeat(2, 1fr);

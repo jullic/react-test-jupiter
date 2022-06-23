@@ -16,7 +16,5 @@ export const useMatchMedia = (): Record<string, boolean> => {
 		return () => mediaQueryList.forEach(mediaQueryListItem => mediaQueryListItem.removeEventListener('change', handler));
 	});
 
-	let valu: ['isMobile'] = ['isMobile'];
-
-	return valu.reduce((acc, screen, index) => ({ ...acc, [screen]: values[index] }), {});
+	return ['isMobile'].reduce((acc, screen, index) => ({ ...acc, [screen]: values[index] }), {});
 }

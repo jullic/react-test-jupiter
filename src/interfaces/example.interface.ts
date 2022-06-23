@@ -1,7 +1,9 @@
-import { FilterValueType, TagsType } from '../types/filter.type';
+import { FilterValueType, TagsType } from './filter.interface';
+
 
 export interface IExample {
-	id: number
+	id: number;
+	active: boolean;
 	photo: string;
 	tag: {
 		tagsType: TagsType;
